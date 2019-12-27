@@ -1,4 +1,4 @@
-package mianJava;
+package indi.nonoas.gradesys.mianJava;
 import java.awt.BorderLayout;
 import java.awt.GridLayout;
 import java.io.File;
@@ -18,11 +18,11 @@ import javax.swing.JTextField;
 import javax.swing.filechooser.FileNameExtensionFilter;
 
 import SQL_Utils.DBOpener;
+import indi.nonoas.gradesys.mSwingUtils.LayoutUtil;
+import indi.nonoas.gradesys.mSwingUtils.MyButton;
 import jxl.Sheet;
 import jxl.Workbook;
 import jxl.read.biff.BiffException;
-import mSwingUtils.LayoutUtil;
-import mSwingUtils.MyButton;
 
 public class GradeInputPanel extends JPanel{
 

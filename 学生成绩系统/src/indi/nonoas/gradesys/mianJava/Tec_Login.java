@@ -1,4 +1,4 @@
-package mianJava;
+package indi.nonoas.gradesys.mianJava;
 import java.awt.Color;
 import java.awt.Container;
 import java.awt.FlowLayout;
@@ -18,7 +18,7 @@ import javax.swing.JTextField;
 import javax.swing.border.EmptyBorder;
 
 import SQL_Utils.DBOpener;
-import mSwingUtils.MyButton;
+import indi.nonoas.gradesys.mSwingUtils.MyButton;
 
 public class Tec_Login extends JFrame {
 	

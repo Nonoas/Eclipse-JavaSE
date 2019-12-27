@@ -1,4 +1,4 @@
-package mSwingUtils;
+package indi.nonoas.gradesys.mSwingUtils;
 
 import java.awt.Dimension;
 

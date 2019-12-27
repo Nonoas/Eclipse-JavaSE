@@ -1,4 +1,4 @@
-package mianJava;
+package indi.nonoas.gradesys.mianJava;
 import java.awt.BorderLayout;
 import java.awt.FlowLayout;
 import java.awt.GridLayout;
@@ -16,7 +16,7 @@ import javax.swing.JPanel;
 import javax.swing.JTextField;
 
 import SQL_Utils.DBOpener;
-import mSwingUtils.MyButton;
+import indi.nonoas.gradesys.mSwingUtils.MyButton;
 
 public class Tec_InfoPanel extends JPanel{
 	

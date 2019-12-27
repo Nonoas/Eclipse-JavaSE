@@ -1,11 +1,11 @@
-package mianJava;
+package indi.nonoas.gradesys.mianJava;
 import java.awt.Container;
 import java.awt.Font;
 
 import javax.swing.JFrame;
 import javax.swing.JLabel;
 
-import mSwingUtils.MyButton;
+import indi.nonoas.gradesys.mSwingUtils.MyButton;
 
 /**
  * 系统选择界面
@@ -19,7 +19,7 @@ public class SysChoseJframe extends JFrame {
 	private MyButton btn_tec = new MyButton("教师系统");
 	private MyButton btn_stu = new MyButton("学生系统");
 
-	// 构造器
+	// 构�?�器
 	public SysChoseJframe() {
 		setBounds(0, 0, 500, 350);
 		setResizable(false);
